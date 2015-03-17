@@ -1,2 +1,2 @@
 # REDVIN
-Información centraliada de la Red Social Venezolana del Investigador
+Información centralizada de la Red Social Venezolana del Investigador
